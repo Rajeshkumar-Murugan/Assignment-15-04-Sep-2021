@@ -69,9 +69,9 @@ padding-left:10px;
        }
 
 } 
-
+/* The below code is for mobile responds */
 @media(max-width:415px){ 
     body{
-margin-bottom:60%;
+margin-bottom:70%;
 }
 } 
