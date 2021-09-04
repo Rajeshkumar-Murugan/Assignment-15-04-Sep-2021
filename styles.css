@@ -72,6 +72,6 @@ padding-left:10px;
 /* The below code is for mobile responds */
 @media(max-width:540px){ 
     body{
-margin-bottom:70%;
+margin-bottom:60%;
 }
 } 
